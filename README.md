@@ -2,4 +2,4 @@
 
 - Esse repositório foi feito em uma aula de Flexbox na Digital Innovation One!
 
-### 🚀 Let's code! 🚀
+### 🚀
